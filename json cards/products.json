@@ -1,0 +1,75 @@
+[
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Rolex",
+        "description": "Apple Watch SE (2nd Gen) [GPS 44]",
+        "price": "7,000"
+        
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "Rolex",
+        "description": "Samsung Galaxy Watch 4",
+        "price": "20,000"
+        
+    },
+    {
+    
+        
+        "image":"products/001.jpg",
+        "title": "Rolex",
+        "description": "Fossil Gen 6 Smartwatch, FTW4060",
+        "price": "6,000"
+        
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "Rolex",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Rolex",
+        "description": "Apple Watch SE (2nd Gen) [GPS 44]",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "Rolex",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Rolex",
+        "description": "Apple Watch SE (2nd Gen) [GPS 44]",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "Rolex",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Rolex",
+        "description": "Apple Watch SE (2nd Gen) [GPS 44]",
+        "price": "4,000"
+       
+    }
+]
